@@ -1,0 +1,1 @@
+# android_translucent_activity
